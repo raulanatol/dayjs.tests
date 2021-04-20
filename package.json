@@ -1,0 +1,26 @@
+{
+  "name": "dayjs.tests",
+  "version": "1.0.0",
+  "description": "dayjs.tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulanatol/dayjs.tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulanatol/dayjs.tests/issues"
+  },
+  "homepage": "https://github.com/raulanatol/dayjs.tests#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
